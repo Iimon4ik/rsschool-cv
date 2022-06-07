@@ -26,3 +26,7 @@ for (j=0; (i >= 0) & (j < numsRes.Length); i--, j++)
     Console.Write(numsRes[j] + " ");
 }
 ```
+6. SushiShop (learning project) - dot.net
+* https://github.com/Iimon4ik/dot.net-ExamProject
+7. This year finished IT-Academy courses (Programming with C#), started RS-School.
+8. A1 (I have little speaking practice, so now, speaking to orther people int English is a bit difficult)
